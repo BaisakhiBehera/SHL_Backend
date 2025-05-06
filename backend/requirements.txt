@@ -27,6 +27,7 @@ fonttools==4.56.0
 gitdb==4.0.12
 GitPython==3.1.44
 greenlet==3.0.3
+gunicorn==23.0.0
 h11==0.14.0
 idna==3.7
 itsdangerous==2.1.2
@@ -89,6 +90,5 @@ urllib3==2.2.1
 virtualenv==20.25.0
 watchdog==6.0.0
 Werkzeug==3.0.1
+whitenoise==6.9.0
 wsproto==1.2.0
-gunicorn
-
