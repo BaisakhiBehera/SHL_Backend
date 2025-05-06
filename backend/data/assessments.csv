@@ -1,0 +1,16 @@
+Assessment Name,URL,Remote Testing Support,Adaptive/IRT Support,Duration (minutes),Test Type
+Verbal Reasoning Test,https://www.shl.com/en/assessments/verbal-reasoning/,Yes,No,19,Cognitive Ability
+Numerical Reasoning Test,https://www.shl.com/en/assessments/numerical-reasoning/,Yes,Yes,25,Cognitive Ability
+Inductive Reasoning Test,https://www.shl.com/en/assessments/inductive-reasoning/,Yes,Yes,24,Cognitive Ability
+Situational Judgment Test,https://www.shl.com/en/assessments/situational-judgement/,Yes,No,30,Behavioral
+Personality Questionnaire,https://www.shl.com/en/assessments/personality/,Yes,No,25,Personality
+Motivation Questionnaire,https://www.shl.com/en/assessments/motivation/,Yes,No,20,Personality
+Technical Test – Python,https://www.shl.com/en/assessments/technical-coding/,Yes,Yes,45,Technical
+English Language Test,https://www.shl.com/en/assessments/language/,Yes,No,15,Language
+English Language Test1,https://www.shl.com/en/assessments/language/,Yes,No,15,Language
+Assessment Name,URL,Remote Testing Support,Adaptive/IRT Support,Duration (minutes),Test Type
+Technical Test – Java,https://www.shl.com/en/assessments/technical-coding/,Yes,Yes,45,Technical
+Data Science Assessment,https://www.shl.com/en/assessments/technical-coding/,Yes,Yes,60,Technical
+Frontend Development Test,https://www.shl.com/en/assessments/technical-coding/,Yes,Yes,45,Technical
+SQL Proficiency Test,https://www.shl.com/en/assessments/numerical-reasoning/,Yes,No,30,Technical
+Cloud Fundamentals Assessment,https://www.shl.com/en/assessments/technical-coding/,Yes,No,40,Technical
